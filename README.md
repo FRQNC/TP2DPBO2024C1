@@ -18,3 +18,4 @@ Desain kelas Mahasiswa juga diimplementasikan kepada database dengan tambahan sa
 6. Tombol cancel akan selalu mengosongkan input form.
 
 # Dokumentasi
+https://github.com/FRQNC/TP2DPBO2024C1/assets/53359844/84d34bce-1d3c-4f6b-90b2-58c8a1fde43f
